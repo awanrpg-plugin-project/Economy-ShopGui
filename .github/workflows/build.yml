@@ -24,7 +24,6 @@ jobs:
       run: mvn clean package --file pom.xml
 
     - name: Upload JAR Artifact
-      uses: actions/upload-artifact@v3
       with:
         name: FuturisticShop-Plugin
         path: target/*.jar
