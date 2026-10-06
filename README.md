@@ -8,7 +8,7 @@ Plugin Keren Economy Futuristik Untuk Server Menjadi Terlihat Bagus Dan Keren
 
 -✅ Canggih Dengan Custom Model ItemsAdder
 
--✅ /bagiuang untuk bagi uang ke player lain
+-✅ /bagiuang untuk membagi uang kamu ke player lain
 
 -✅ /peringkatuang untuk melihat kamu peringkat berapa
 
